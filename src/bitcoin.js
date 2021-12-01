@@ -4,7 +4,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import _data from './bitcoin-data';
+import _data from './bitcoin-data2';
 import { sma, normalize } from './lib';
 import Graph from './graph';
 
